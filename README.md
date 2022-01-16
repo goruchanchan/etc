@@ -7,6 +7,8 @@
   * 基本的な使い方. 
     * [Git \- Book](https://git-scm.com/book/ja/v2)
     * [Gitを使ったバージョン管理｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/intro/01/)
+    * [デザイナーがこうやってGit覚えて大好きになったよ♡ \- Qiita](https://qiita.com/yunico-jp/items/87bdd13971e82833f6bb)
   * ブランチ戦略. 
     * [A successful Git branching model » nvie\.com](https://nvie.com/posts/a-successful-git-branching-model/)
     * [見えないチカラ: A successful Git branching model を翻訳しました](http://keijinsonyaban.blogspot.com/2010/10/a-successful-git-branching-model.html)
+
